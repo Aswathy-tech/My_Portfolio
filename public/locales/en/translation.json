@@ -1,0 +1,8 @@
+{
+    "greeting": "Hi, I'm Aswathy",
+    "description": {
+      "line1": "I am a full-stack developer with experience using React and NodeJS. Reach out if you'd like to learn more!",
+      "line2": "Download my CV",
+      "line3":"I'm a"
+    }
+  }

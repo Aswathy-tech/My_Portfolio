@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Praktikant Full Stack Developer ",
+      "organisation": "FinGlider Solutions",
+      "startDate": "February, 2024",
+      "endDate": "July 2024",
+      "experiences": ["Developed Customer UI: Designed and implemented the customer-facing user interface using React.js, ensuring a seamless and responsive experience across various devices.", "Backend Development: Built and maintained the backend services using Node.js and Express.js, facilitating smooth communication between the client-side and the server.",
+    "Database Management: Utilized MongoDB for efficient data storage and retrieval, implementing schema design, CRUD operations, and data indexing for optimal performance.",
+  "API Integration: Created RESTful APIs to handle customer orders, user authentication, and menu management, ensuring secure and efficient data transactions.",
+"Authentication and Authorization: Implemented JWT-based authentication for secure user login and access control, protecting sensitive user data and application endpoints."],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "IT Technical Support",
+      "organisation": "IBM India",
+      "startDate": "May, 2013",
+      "endDate": "June, 2014",
+      "experiences": ["Act as the first point of contact for technical issues, including system failures and disaster recovery", "Migration of the operating system through the TEM server, data transfer, data encryption, network troubleshooting","Remote Desktop (RDP) support for clients","Troubleshooting operating system generation issues"],
+      "imageSrc": "history/microsoft.png"
+    }
+  
+  ]

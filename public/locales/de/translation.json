@@ -1,0 +1,8 @@
+{
+    "greeting": "Hallo, ich bin Aswathy",
+    "description": {
+      "line1": "Ich bin ein Full-Stack-Entwickler mit Erfahrung im Umgang mit React und NodeJS. Kontaktieren Sie uns, wenn Sie mehr erfahren möchten!",
+      "line2": "Laden Sie meinen Lebenslauf herunter",
+      "line3":"Ich bin"
+    }
+  }

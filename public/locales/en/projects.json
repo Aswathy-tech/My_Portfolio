@@ -1,0 +1,21 @@
+{
+    "projects": [
+      {
+        "title": "Node Jwt Authentication",
+        "description": "This is a project to learn how to implement an authentication system using Node.js, Express, MongoDB & JSON web tokens (JWT). Through this project I have learned to set up an authentication system with login, signup, logout. Also, protect certain routes of pages from unauthenticated users."
+      },
+      {
+        "title": "Bookstore",
+        "description": "MERN-BookStore is a comprehensive web application built using the MERN stack that allows users to efficiently manage and operate a bookstore. This project incorporates essential CRUD operations to handle books, authors, and other relevant data within the bookstore's inventory."
+      },
+      {
+        "title": "TingDog Website",
+        "description": "This is my first responsive website made to learn HTML, CSS, and Bootstrap."
+      },
+      {
+        "title": "My First Portfolio",
+        "description": "This is my first responsive personal website made to learn HTML and CSS."
+      }
+    ]
+  }
+  

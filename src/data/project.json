@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Node Jwt Authentication",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project to learn how to implement an authentication system using Node.js, Express, MongoDB & JSON web tokens (JWT).Through this project i have lernt to set up a authentication system with login,signup,logout. Also protect certain routes of pages from unauthenticated users. ",
+    "skills": ["React", "Express", "Node","MongoDB","JWT"],
+    "demo": "https://node-authentication-with-jwt-aswathy.vercel.app/",
+    "source": "https://github.com/Aswathy-tech/Node-Authentication-with-JWT.git"
+  },  
+  
+  {
+      "title": "Bookstore",
+      "imageSrc": "projects/project.png",
+      "description": "MERN-BookStore is a comprehensive web application built using the MERN stack that allows users to efficiently manage and operate a bookstore. This project incorporates essential CRUD operations to handle books, authors, and other relevant data within the bookstore's inventory.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://fullstack-bookstore-frontend.vercel.app/",
+      "source": "https://github.com/Aswathy-tech/Fullstack-Bookstore.git"
+    },
+ 
+    {
+      "title": "TingDog Website",
+      "imageSrc": "projects/project.png",
+      "description": "This is my first responsive website made to learn HTML,CSS and Bootstrap.",
+      "skills": ["HTML", "CSS", "Bootsrap"],
+      "demo": "https://aswathy-tech.github.io/tingdog/",
+      "source": "https://github.com/Aswathy-tech/tingdog.git"
+    },
+    {
+      "title": "My First Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "This is my first responsive personal website made to learn HTML and CSS.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://aswathy-tech.github.io/ash-portfolio/",
+      "source": "https://github.com/Aswathy-tech/ash-portfolio.git"
+    }
+    
+  ]
