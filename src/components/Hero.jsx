@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next';
 import {useTypewriter,Cursor} from 'react-simple-typewriter';
 import styles from "./Hero.module.css";
 import { getImageUrl } from "../utils";
-const CV_FILE_URL = 'http://localhost:5173/John_LL.pdf'
+const CV_FILE_URL = 'https://my-portfolio-aswathy.vercel.app/John_LL.pdf'
 
 export const Hero = () => {
   const { t} = useTranslation(); 
